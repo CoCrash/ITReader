@@ -233,6 +233,7 @@
                     tmpModel.ID = model.ID;
                     tmpModel.Title = model.Title;
                     tmpModel.Image = model.Image;
+                    tmpModel.isbn = model.ISBN;
                     [[DPITReaderEventHandler shareInstance] OpenBookDetailViewController:tmpModel];
                 }break;
                 case DPBOOK_STATE_Downloaded:

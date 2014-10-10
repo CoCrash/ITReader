@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>218F3EC0-B3F7-4CBB-8CEE-0DD0CCDB0D9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ITReader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CF95754FBDE6318AFDA8DBEFECD8A88AB263BDE</key>
+		<string>https://github.com/CoCrash/ITReader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ITReader.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CF95754FBDE6318AFDA8DBEFECD8A88AB263BDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CoCrash/ITReader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CF95754FBDE6318AFDA8DBEFECD8A88AB263BDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CF95754FBDE6318AFDA8DBEFECD8A88AB263BDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ITReader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
